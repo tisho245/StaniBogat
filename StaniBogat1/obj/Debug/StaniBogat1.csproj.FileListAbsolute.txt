@@ -1,0 +1,11 @@
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\bin\Debug\StaniBogat1.exe.config
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\bin\Debug\StaniBogat1.exe
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\bin\Debug\StaniBogat1.pdb
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.csproj.AssemblyReference.cache
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.Form1.resources
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.csproj.GenerateResource.cache
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.csproj.CoreCompileInputs.cache
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.exe
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.pdb
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.Form2.resources
+C:\Users\titim\source\repos\StaniBogat1\StaniBogat1\obj\Debug\StaniBogat1.Properties.Resources.resources

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|c:\\users\\titim\\source\\repos\\stanibogat1\\stanibogat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|solutionrelative:stanibogat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|C:\\Users\\titim\\source\\repos\\StaniBogat1\\stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|solutionrelative:stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat1.csproj|C:\\Users\\titim\\source\\repos\\StaniBogat1\\stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat1.csproj|solutionrelative:stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|C:\\Users\\titim\\source\\repos\\StaniBogat1\\stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|solutionrelative:stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|C:\\Users\\titim\\source\\repos\\StaniBogat1\\stanibogat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat.csproj|solutionrelative:stanibogat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat1.csproj|C:\\Users\\titim\\source\\repos\\StaniBogat1\\stanibogat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat1.csproj|solutionrelative:stanibogat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat1.csproj|C:\\Users\\titim\\source\\repos\\StaniBogat1\\stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{919A9ADF-B996-45B5-A703-156B130C997E}|StaniBogat1\\StaniBogat1.csproj|solutionrelative:stanibogat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form1.cs",
+              "RelativeDocumentMoniker": "StaniBogat1\\Form1.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form1.cs [Design]",
+              "RelativeToolTip": "StaniBogat1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:55:39.977Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs",
+              "RelativeDocumentMoniker": "StaniBogat1\\Form2.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs",
+              "RelativeToolTip": "StaniBogat1\\Form2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:42:28.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form1.cs",
+              "RelativeDocumentMoniker": "StaniBogat1\\Form1.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form1.cs",
+              "RelativeToolTip": "StaniBogat1\\Form1.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAcwCcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:59:06.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs",
+              "RelativeDocumentMoniker": "StaniBogat1\\Form2.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs [Design]",
+              "RelativeToolTip": "StaniBogat1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:57:59.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs",
+              "RelativeDocumentMoniker": "StaniBogat1\\Form2.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs [Design]",
+              "RelativeToolTip": "StaniBogat1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:26:35.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs",
+              "RelativeDocumentMoniker": "StaniBogat1\\Form2.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form2.cs",
+              "RelativeToolTip": "StaniBogat1\\Form2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:08:20.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form1.cs",
+              "RelativeDocumentMoniker": "StaniBogat1\\Form1.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\StaniBogat1\\StaniBogat1\\Form1.cs*",
+              "RelativeToolTip": "StaniBogat1\\Form1.cs*",
+              "ViewState": "AgIAABsBAAAAAAAAAAAcwCcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:55:42.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
